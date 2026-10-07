@@ -20,8 +20,8 @@
   <img src="https://skillicons.dev/icons?i=py,r,julia,c,pytorch,tensorflow,sklearn,fastapi,sqlite,latex,git,linux,vscode" alt="Tech stack">
 </p>
 
-**Data & ML:** NumPy · pandas · scikit-learn · PyTorch · TensorFlow/Keras · CatBoost · statsmodels · SciPy · PyWavelets
-**Visualization:** Matplotlib · Seaborn · ggplot2
+**Data & ML:** NumPy · pandas · scikit-learn · PyTorch · TensorFlow/Keras · CatBoost · statsmodels · SciPy · PyWavelets<br>
+**Visualization:** Matplotlib · Seaborn · ggplot2<br>
 **Backend:** FastAPI · SQLAlchemy · SQLite
 
 ## Featured projects
