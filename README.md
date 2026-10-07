@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Deshi 👋</h1>
+<h1 align="center">Hi, I'm Deshi </h1>
 <h3 align="center">Data Science & Machine Learning · CS student at Lomonosov Moscow State University</h3>
 
 <p align="center">
@@ -8,11 +8,11 @@
 
 ## About me
 
-- 🎓 4th-year student at the **Faculty of Computational Mathematics and Cybernetics (CMC), Lomonosov Moscow State University**
-- 🔬 Interested in **machine learning, statistical modelling, time series and biomedical signal processing**
-- 🧠 Coursework: **ECG arrhythmia classification** with CNN, ResNet1D and Random Forest, including noise-robustness experiments
-- 🛠️ Also enjoy backend development with **FastAPI** and low-level programming in **C / x86-64 assembly**
-- 🌱 Currently learning: time series forecasting (ARIMA / SARIMA, exponential smoothing)
+- 4th-year student at the **Faculty of Computational Mathematics and Cybernetics (CMC), Lomonosov Moscow State University**
+- Interested in **machine learning, statistical modelling, time series and biomedical signal processing**
+- Coursework: **ECG arrhythmia classification** with CNN, ResNet1D and Random Forest, including noise-robustness experiments
+- Also enjoy backend development with **FastAPI** and low-level programming in **C / x86-64 assembly**
+- Currently learning: time series forecasting (ARIMA / SARIMA, exponential smoothing)
 
 ## Tech stack
 
@@ -26,25 +26,25 @@
 
 ## Featured projects
 
-### 🤖 Machine Learning & Deep Learning
+### Machine Learning & Deep Learning
 | Project | Description | Stack |
 |---|---|---|
 | [**ecg-arrhythmia-classification**](https://github.com/vagades/ecg-arrhythmia-classification) | Coursework: heartbeat classification on MIT-BIH (5 classes, 100k beats). 1D-CNN reaches **99.2 % accuracy**. Wavelet features and robustness to 4 noise types | PyTorch · scikit-learn · PyWavelets |
 | [**animal-classifier**](https://github.com/vagades/animal-classifier) | Recognizes 10 animal species from photos with transfer learning on ResNet50 (~26k images) | TensorFlow · Keras |
 | [**ml-linear-classification**](https://github.com/vagades/ml-linear-classification) | Logistic regression research and categorical encoders implemented from scratch, including out-of-fold target encoding | scikit-learn · CatBoost |
 
-### 📊 Statistics & Data Analysis
+### Statistics & Data Analysis
 | Project | Description | Stack |
 |---|---|---|
 | [**time-series-analysis**](https://github.com/vagades/time-series-analysis) | Retail demand forecasting: Holt-Winters vs SARIMA on daily and monthly series | statsmodels · pmdarima |
 | [**spotify-statistical-analysis**](https://github.com/vagades/spotify-statistical-analysis) | Full statistical study of 18k Spotify tracks in **Python and R**: hypothesis tests, ANOVA, regression, imputation | pandas · SciPy · R |
 | [**applied-statistics**](https://github.com/vagades/applied-statistics) | GLM, PCA and factor analysis, copulas, hidden Markov models, Monte Carlo | Python · Julia |
 
-### ⚙️ Software Engineering
+### Software Engineering
 | Project | Description | Stack |
 |---|---|---|
 | [**task-manager-api**](https://github.com/vagades/task-manager-api) | REST API for task management with CRUD and filtering | FastAPI · SQLAlchemy |
 | [**linked-lists-c-nasm**](https://github.com/vagades/linked-lists-c-nasm) | Sorted doubly linked lists: the same task in C and x86-64 NASM assembly | C · NASM |
 
 ---
-<p align="center"><i>Always open to interesting data & ML projects ✨</i></p>
+<p align="center"><i>Always open to interesting data & ML projects </i></p>
