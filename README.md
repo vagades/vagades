@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Deshi </h1>
 <h3 align="center">Data Science & Machine Learning · CS student at Lomonosov Moscow State University</h3>
 
 <p align="center">
